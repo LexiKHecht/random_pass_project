@@ -12,6 +12,9 @@ No special requirements
 
 ## Technology Used
 This site was made using given starter HTML, CSS, and JavaScript code.
+I also utilized:
+- https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+- https://developer.mozilla.org/en-US/
 
 ## Review
 - https://github.com/LexiKHecht/random_pass_project
