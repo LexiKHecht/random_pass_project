@@ -6,10 +6,10 @@ var specialChar = ["~", "`", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "
 var charSets = [];
 var userPass = "";
 
-var addLowerCase;
-var addUpperCase;
-var addNumeric;
-var addSpecialChar;
+var addLowerCase = "yes";
+var addUpperCase = "yes";
+var addNumeric = "yes";
+var addSpecialChar = "yes";
 var passLength;
 
 var generateBtn = document.querySelector('#generate');
